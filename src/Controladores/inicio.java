@@ -59,7 +59,7 @@ public class inicio {
 				
 			
 				default:
-				System.out.println("");
+				System.out.println("Esta opcion no existe");
 					break;
 			}
 			
