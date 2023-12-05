@@ -2,9 +2,9 @@ package Servicios;
 
 import java.util.Scanner;
 
-/*
+/**
  *Clase Implementacion la cual contiene la logica de los metodos que se encargan del menu principal 
- *<author>ilp-051223 
+ *@author ilp-051223 
  */
 public class menuImplementacion implements menuInterfaz {
 

@@ -7,17 +7,15 @@ import Servicios.menuInterfaz;
 import Servicios.operativaImplementacion;
 import Servicios.operativaInterfaz;
 
-/*
+/**
  *Clase principal de la aplicacion , el cual contendra el metodo Main
- *<author>ilp-051223 
+ *@author ilp-051223 
  */
 public class inicio {
-	
-	/*
-	 *Metodo principal de la aplicacion por el cual se lanzara la aplicacion 
-	 *<author>ilp-051223 
-	 */
 
+	 /**Metodo principal de la aplicacion por el cual se lanzara la aplicacion
+	  * @param args @author csi23-ilp
+	  */
 	public static void main(String[] args) {
 		menuInterfaz mi = new menuImplementacion();
 		operativaInterfaz op = new operativaImplementacion();

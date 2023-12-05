@@ -2,9 +2,9 @@ package Servicios;
 
 import java.util.Scanner;
 
-/*
+/**
  *Clase Implementacion la cual contiene la logica de los metodos que se encargan de la operativa de la aplicacion
- *<author>ilp-051223 
+ *@author ilp-051223 
  */
 public class operativaImplementacion implements operativaInterfaz {
 
